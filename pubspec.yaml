@@ -40,7 +40,6 @@ dependencies:
   http: ^0.12.2
   flutter_polyline_points:
   google_maps_flutter:
-  location:
   geolocator:
 
 dev_dependencies:
